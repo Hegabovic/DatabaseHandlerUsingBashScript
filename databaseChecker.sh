@@ -4,7 +4,7 @@
 ###               10 can not connect to database
 
 USER=hegabovic
-PASS=Hegabo192
+PASS=password
 DB=DB_Bash
 
 ####################################### Exist Code Checker ##############################################
